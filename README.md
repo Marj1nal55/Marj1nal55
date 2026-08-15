@@ -8,6 +8,12 @@
 - 📖 Reading Linux From Scratch
 - 🐧 Fedora & Arch Linux enthusiast
 - 🎮 Game development beginner (Unity)
+- ♟️ Chess player
+
+## Setup
+- 🖥️ Main OS: Fedora Linux
+- 🐧 Used: Debian, Ubuntu, Kali, Arch, CachyOS
+- 📱 Mobile: Termux
 
 ## Skills
 - 🔍 Nmap, Metasploit
@@ -17,6 +23,7 @@
 - ⚙️ C (beginner)
 - 🪟 Windows 11
 - 🎮 Unity (beginner)
+- 🔧 Git & GitHub
 
 ## Platforms
 - 🔐 [TryHackMe](https://tryhackme.com/p/Marj1nal55)
@@ -31,18 +38,3 @@
 
 ---
 > "The quieter you become, the more you can hear." 🔒
-
-<!--
-**Marj1nal55/Marj1nal55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
